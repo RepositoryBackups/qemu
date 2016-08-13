@@ -1,3 +1,5 @@
+**Imported on 13/08/20016 from qemu repository (https://github.com/qemu/qemu.git). Edited submodules URL so that all submodules can now be downloaded from github itself, earlier they were pointing to domains outside github, and were using git:// protocol, now https:// is used instead.**
+
          QEMU README
          ===========
 
